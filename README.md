@@ -36,8 +36,8 @@ To use project locally, follow these steps:
 
 ## Usage
 
-1. See below for snap shot of password generator webpage. 
-Image![Workday Scheduler](./Assets/screenshot-scheduler.pngscreenshot.png)
+1. See below for snap shot of work day scheduler 
+Image![Workday Scheduler](./assets/images/screenshot-scheduler.png)
 
 
 2. Follow deployed link for full access to
